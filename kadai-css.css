@@ -9,6 +9,8 @@ header {
     background-color: #ffcccc;
     padding: 10px;
     text-align: center;
+    width: 1000px;
+    margin: 0 auto;
 }
 
 /* mainとmenuを横並び:ここを改善しなければならない */
@@ -44,4 +46,6 @@ footer {
     background-color: #ffccff;
     padding: 10px;
     text-align: center;
+    width: 1000px;
+    margin: 0 auto;
 }
